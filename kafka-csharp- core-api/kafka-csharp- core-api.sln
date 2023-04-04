@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kafka-csharp- core-api", "kafka-csharp- core-api\kafka-csharp- core-api.csproj", "{E265CFA2-019C-46C4-924A-6EAB8645071F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kafka-csharp-core-api", "kafka-csharp- core-api\kafka-csharp-core-api.csproj", "{E265CFA2-019C-46C4-924A-6EAB8645071F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

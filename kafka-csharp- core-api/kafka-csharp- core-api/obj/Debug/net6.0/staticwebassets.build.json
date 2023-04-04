@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kPhnHlWnqzTwlsigntmJkXw3ZKr3JqXTn0emIs0DgVg=",
+  "Source": "kafka-csharp-core-api",
+  "BasePath": "_content/kafka-csharp-core-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
